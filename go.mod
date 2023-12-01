@@ -1,4 +1,4 @@
-module 8lall0/tiff
+module github.com/8lall0/tiff
 
 go 1.21
 
